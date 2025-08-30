@@ -7,7 +7,7 @@
 -----------------------------------------------------------------------------------------------
 
 # 💫 About Me:
-🔭 I’m currently working on Credora - A Banking Application<br><br>🌱 I’m currently learning Next.js, Tailwind CSS, TypeScript, and Advanced React<br><br>👨‍💻 All of my projects are available at https://3d-tanishq-portfolio.vercel.app/<br><br>💬 Ask me about React.js , Vue.js , GSAP<br><br>📫 How to reach me tanishq.tiwari2812@gmail.com<br><br> [📄 Know about my experiences](https://drive.google.com/file/d/1W1rY7EOhBAZbb1DGfbyApA9YWHSbmTH1/view)]<br><br>⚡ Fun fact I console.log() everything — even my coffee breaks.<br><br>
+🔭 I’m currently working on Credora - A Banking Application<br><br>🌱 I’m currently learning Next.js, Tailwind CSS, TypeScript, and Advanced React<br><br>👨‍💻 All of my projects are available at https://3d-tanishq-portfolio.vercel.app/<br><br>💬 Ask me about React.js , Vue.js , GSAP<br><br>📫 How to reach me tanishq.tiwari2812@gmail.com<br><br> [📄 Know about my experiences](https://drive.google.com/file/d/1W1rY7EOhBAZbb1DGfbyApA9YWHSbmTH1/view)<br><br>⚡ Fun fact I console.log() everything — even my coffee breaks.<br><br>
 
 
 -----------------------------------------------------------------------------------------------
